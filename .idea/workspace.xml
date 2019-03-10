@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b2babff-5628-4247-a3fd-2ffa0db7ce5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/hw10/Suit.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Homework8b/src/edu/dmacc/codedsm/hw8/arrayWork.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Homework9/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticeHomework9/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rolo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework10/edu/dmacc/codedsm/hw10/CardDeck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework10/edu/dmacc/codedsm/hw10/CardDeck.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/dmacc/codedsm/hw10/CardDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/hw10/CardDeck.java" afterDir="false" />
@@ -28,12 +28,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/hw10/CardDeck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+            <state relative-caret-position="313">
+              <caret line="90" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="90" />
               <folding>
-                <element signature="e#276#292#0" expanded="true" />
-                <element signature="e#408#431#0" expanded="true" />
-                <element signature="e#605#614#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#245#259#0" expanded="true" />
+                <element signature="e#738#747#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,6 +55,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/hw10/blackJack.java" />
+        <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/hw10/Suit.java" />
         <option value="$PROJECT_DIR$/src/edu/dmacc/codedsm/hw10/CardDeck.java" />
       </list>
     </option>
@@ -88,10 +89,15 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552169448819" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552240421126" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.dmacc.codedsm.hw10" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,12 +142,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551981019418</updated>
       <workItem from="1551981023757" duration="380000" />
-      <workItem from="1552015764571" duration="29933000" />
+      <workItem from="1552015764571" duration="55713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30313000" />
+    <option name="totallyTimeSpent" value="56093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -183,14 +189,28 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/hw10/Suit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/BiConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/hw10/CardDeck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        <state relative-caret-position="313">
+          <caret line="90" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="90" />
           <folding>
-            <element signature="e#276#292#0" expanded="true" />
-            <element signature="e#408#431#0" expanded="true" />
-            <element signature="e#605#614#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#245#259#0" expanded="true" />
+            <element signature="e#738#747#0" expanded="true" />
           </folding>
         </state>
       </provider>

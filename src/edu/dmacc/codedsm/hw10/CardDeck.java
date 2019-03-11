@@ -2,13 +2,13 @@ package edu.dmacc.codedsm.hw10;
 
 import java.util.Map;
 import java.util.HashMap;
-import java.util.*;
 import java.util.ArrayList;
+import java.util.List;
 
 public class CardDeck {
 
     public static void main(String[] args) {
-        Map<String, List> cards = new HashMap<String, List>();
+        Map<String, List> fullDeck = new HashMap<>();
 
         ArrayList<Integer> rank = new ArrayList<Integer>();
         rank.add(1);
@@ -25,23 +25,17 @@ public class CardDeck {
         rank.add(12);
         rank.add(13);
 
-        cards.put("Hearts", rank);
-        cards.put("Diamonds", rank);
-        cards.put("Spades", rank);
-        cards.put("Clubs", rank);
-
-
-        for (Map.Entry<String, List> entry : cards.entrySet()) {
-            for (int b = 1; b <= 13; b++) {
-                System.out.println(entry.getKey() + " - " + b);
-            }
-
+        String[] suits = {"Hearts", "Diamonds", "Spades", "Clubs"};
+        for (String suit : suits) {
+            fullDeck.put(suit, rank);
         }
+        for (Integer b = 1; b < 14; b++) {
+            rank.add(b);
+        }
+        for (Map.Entry<String, List> suit : fullDeck.entrySet())
+            for (Object Card : suit.getValue()) {
+                System.out.println(suit.getKey() + " - " + Card);
+            }
     }
 }
-
-
-
-
-
 

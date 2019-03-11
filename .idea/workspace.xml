@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b2babff-5628-4247-a3fd-2ffa0db7ce5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/hw10/Suit.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Homework8b/src/edu/dmacc/codedsm/hw8/arrayWork.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Homework9/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticeHomework9/.idea/vcs.xml" afterDir="false" />
@@ -28,11 +27,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/hw10/CardDeck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="90" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="90" />
+            <state relative-caret-position="279">
+              <caret line="37" column="65" lean-forward="true" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#245#259#0" expanded="true" />
                 <element signature="e#738#747#0" expanded="true" />
               </folding>
             </state>
@@ -89,7 +87,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552240421126" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552267986875" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -142,12 +140,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551981019418</updated>
       <workItem from="1551981023757" duration="380000" />
-      <workItem from="1552015764571" duration="55713000" />
+      <workItem from="1552015764571" duration="63080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56093000" />
+    <option name="totallyTimeSpent" value="63460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -205,11 +203,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/hw10/CardDeck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="90" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="90" />
+        <state relative-caret-position="279">
+          <caret line="37" column="65" lean-forward="true" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#245#259#0" expanded="true" />
             <element signature="e#738#747#0" expanded="true" />
           </folding>
         </state>
